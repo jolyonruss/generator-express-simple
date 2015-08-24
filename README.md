@@ -1,3 +1,10 @@
+# Outline of features to add
+
+- Restructure public dir
+- Browserify as an option for front-end js
+- Test with latest release of Nodemon
+ 
+
 # generator-express-simple [![Build Status](https://secure.travis-ci.org/ngenerio/generator-express-simple.png?branch=master)](https://travis-ci.org/ngenerio/generator-express-simple)
 [![NPM version](https://badge.fury.io/js/generator-express-simple.png)](http://badge.fury.io/js/generator-express-simple)
 
